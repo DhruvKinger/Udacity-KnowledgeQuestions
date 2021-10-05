@@ -12,3 +12,5 @@
 ### Deploying the Neighborly App with Azure Functions
 
  *  [1st Source](https://knowledge.udacity.com/questions/654953)
+ *  [2md Source](https://knowledge.udacity.com/questions/649076)
+ *  [3rd Source]()
